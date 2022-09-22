@@ -39,5 +39,6 @@ public class Zona {
 	public Zoologico getZoo() {
 		return zoo;
 	}
+	private void pp() {}
 
 }
